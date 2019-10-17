@@ -3,6 +3,6 @@
 **This is my personal blog**
 
 ## What I Do
-* eat :ramen::pizza::fries:
-* sleep :alarm_clock::seat:
+* eat :ramen:
+* sleep :alarm_clock:
 * code :computer:
