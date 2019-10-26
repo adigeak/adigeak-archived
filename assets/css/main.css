@@ -267,6 +267,7 @@
 		border-bottom: solid 1px #c8cccf;
 		margin: 3em 0;
 	}
+	
 
 /* Form */
 
@@ -516,7 +517,19 @@
 		color: #616f77 !important;
 		opacity: 1.0;
 	}
-
+/* navigation */
+.nav-home {
+    margin-top: 40px;
+	text-align: center;
+	padding: 0%;
+}
+.list{
+	list-style: none;
+	margin: 0;
+}
+.item{
+	display: inline-block;
+}
 /* Icon */
 
 	.icon {
